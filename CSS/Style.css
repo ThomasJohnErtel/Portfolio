@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+#navespaco {
+    padding-right: 4vh;
+}
+
+#inicio {
+    background-image: linear-gradient(to bottom right, #9EAD85, #344E41);
+    width: 100%;
+    height: 100vh;
+    padding-top: 40vh;
+    color: #E5E3DC;
+    font-family: Work Sans;
+    letter-spacing: 3px;
+}
+
+.container {
+    align-items: center;
+    text-align: center;
+}
+
+#sobre {
+    background-color: #101915;
+    width: 100%;
+    height: 100vh;
+    padding-top: 10vh;
+    font-family: Work Sans;
+    color: #E5E3DC;
+    letter-spacing: 2px;
+}
+
+#Thomas {
+    width: 30%;
+    height: 30%;
+    border: #18251F 5px solid;
+    border-radius: 50%;
+}
+
+.titulo {
+    font-weight: bold;
+    font-size: 4vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.conteudo {
+    font-size: 2vh;
+}
+
+footer {
+    background-color: #18251F;
+    width: 100%;
+    height: 20vh;
+    padding: 5vh;
+    font-family: Work Sans;
+    color: #E5E3DC;
+    letter-spacing: 2px;
+}
+
+.copyright {
+    padding-bottom: 2vh;
+}
+.botao {
+    width: 15vh;
+    height: 5vh;
+    padding: 3vh;
+    text-decoration: none;
+}
